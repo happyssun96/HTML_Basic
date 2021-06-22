@@ -1,0 +1,14 @@
+#wrap {
+    text-align: center;
+
+  }
+
+  #icon {
+    border-radius: 10rem;
+    width: 100px;
+    height: 100px;
+  }
+
+  input {
+    border: 1px solid blue;
+  }
